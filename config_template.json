@@ -1,0 +1,11 @@
+{
+    "settings": {
+        "proxy_images": false,
+        "refresh_cooldown": 3600,
+        "image_resolution": 128
+    },
+    "guilds": {
+        "last_refresh": 0,
+        "data": []
+    }
+}

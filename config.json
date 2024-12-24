@@ -1,0 +1,1092 @@
+{
+  "settings": {
+    "proxy_images": false,
+    "refresh_cooldown": 3600,
+    "image_resolution": 128
+  },
+  "guilds": {
+    "last_refresh": 1735016514.1475205,
+    "data": [
+      {
+        "id": "267624335836053506",
+        "name": "Python",
+        "icon": "a_4e9268b1303488f42ad8bd967ebbdcfb",
+        "banner": "c4d384c9534d0d7db2410c5005dbdc64",
+        "owner": false,
+        "permissions": "704102008212544",
+        "features": [
+          "VIP_REGIONS",
+          "PRIVATE_THREADS",
+          "SEVEN_DAY_THREAD_ARCHIVE",
+          "THREADS_ENABLED",
+          "THREADS_ONLY_CHANNEL",
+          "ANIMATED_BANNER",
+          "THREE_DAY_THREAD_ARCHIVE",
+          "RELAY_ENABLED",
+          "AUTOMOD_TRIGGER_ML_SPAM_FILTER",
+          "SOUNDBOARD",
+          "GUILD_HOME_TEST",
+          "PREVIEW_ENABLED",
+          "ROLE_ICONS",
+          "INVITE_SPLASH",
+          "BANNER",
+          "GUILD_WEB_PAGE_VANITY_URL",
+          "WELCOME_SCREEN_ENABLED",
+          "MEMBER_VERIFICATION_GATE_ENABLED",
+          "GUILD_MEMBER_VERIFICATION_EXPERIMENT",
+          "MEMBER_PROFILES",
+          "AUTO_MODERATION",
+          "CHANNEL_ICON_EMOJIS_GENERATED",
+          "VANITY_URL",
+          "DISCOVERABLE",
+          "NEW_THREAD_PERMISSIONS",
+          "COMMUNITY",
+          "ANIMATED_ICON",
+          "NEWS"
+        ]
+      },
+      {
+        "id": "349051257702580224",
+        "name": "BIG Games",
+        "icon": "a_5dcabd68103f75267ee3a22e87105c31",
+        "banner": "051003ae026c1e88a3a3bda3da60c16b",
+        "owner": false,
+        "permissions": "175928406772736",
+        "features": [
+          "GUILD_SERVER_GUIDE",
+          "PRIVATE_THREADS",
+          "CREATOR_MONETIZABLE",
+          "SEVEN_DAY_THREAD_ARCHIVE",
+          "THREADS_ENABLED",
+          "ANIMATED_BANNER",
+          "THREE_DAY_THREAD_ARCHIVE",
+          "GUILD_ONBOARDING_HAS_PROMPTS",
+          "GUILD_ONBOARDING_EVER_ENABLED",
+          "SOUNDBOARD",
+          "ROLE_SUBSCRIPTIONS_ENABLED",
+          "PREVIEW_ENABLED",
+          "ROLE_ICONS",
+          "INVITE_SPLASH",
+          "BANNER",
+          "GUILD_WEB_PAGE_VANITY_URL",
+          "WELCOME_SCREEN_ENABLED",
+          "MEMBER_VERIFICATION_GATE_ENABLED",
+          "TEXT_IN_VOICE_ENABLED",
+          "MEMBER_PROFILES",
+          "AUTOMOD_TRIGGER_USER_PROFILE",
+          "AUTO_MODERATION",
+          "CHANNEL_ICON_EMOJIS_GENERATED",
+          "VANITY_URL",
+          "CREATOR_STORE_PAGE",
+          "COMMUNITY_EXP_LARGE_GATED",
+          "DISCOVERABLE",
+          "RAID_ALERTS_DISABLED",
+          "ENABLED_DISCOVERABLE_BEFORE",
+          "GUILD_ONBOARDING",
+          "NEW_THREAD_PERMISSIONS",
+          "COMMUNITY",
+          "CREATOR_ACCEPTED_NEW_TERMS",
+          "ANIMATED_ICON",
+          "NEWS"
+        ]
+      },
+      {
+        "id": "360247691130961921",
+        "name": "Los Altos Hacks",
+        "icon": "c3e4db541d39763ddc1bf8033888391a",
+        "banner": null,
+        "owner": false,
+        "permissions": "2222085119532608",
+        "features": [
+          "VIP_REGIONS",
+          "COMMUNITY",
+          "PREVIEW_ENABLED",
+          "INVITE_SPLASH",
+          "HAS_DIRECTORY_ENTRY",
+          "LINKED_TO_HUB",
+          "NEW_THREAD_PERMISSIONS",
+          "WELCOME_SCREEN_ENABLED",
+          "MEMBER_VERIFICATION_GATE_ENABLED",
+          "THREADS_ENABLED",
+          "AUTO_MODERATION",
+          "CHANNEL_ICON_EMOJIS_GENERATED",
+          "NEWS",
+          "VANITY_URL"
+        ]
+      },
+      {
+        "id": "415246288779608064",
+        "name": "Rolimon's | Roblox Trading & UGC Limiteds",
+        "icon": "a_658400c8178ce9068b109eafaed85459",
+        "banner": "430b057cce5cce32fc57fd75045cc885",
+        "owner": false,
+        "permissions": "176476015152641",
+        "features": [
+          "ROLE_SUBSCRIPTIONS_ENABLED",
+          "PRIVATE_THREADS",
+          "PREVIEW_ENABLED",
+          "ROLE_ICONS",
+          "INVITE_SPLASH",
+          "BANNER",
+          "GUILD_WEB_PAGE_VANITY_URL",
+          "WELCOME_SCREEN_ENABLED",
+          "MEMBER_VERIFICATION_GATE_ENABLED",
+          "SEVEN_DAY_THREAD_ARCHIVE",
+          "MEMBER_PROFILES",
+          "THREADS_ENABLED",
+          "AUTO_MODERATION",
+          "CHANNEL_ICON_EMOJIS_GENERATED",
+          "CREATOR_ACCEPTED_NEW_TERMS",
+          "VANITY_URL",
+          "ANIMATED_BANNER",
+          "THREE_DAY_THREAD_ARCHIVE",
+          "COMMUNITY_EXP_LARGE_GATED",
+          "DISCOVERABLE",
+          "CREATOR_MONETIZABLE_PROVISIONAL",
+          "ENABLED_DISCOVERABLE_BEFORE",
+          "NEW_THREAD_PERMISSIONS",
+          "COMMUNITY",
+          "SOUNDBOARD",
+          "ANIMATED_ICON",
+          "NEWS"
+        ]
+      },
+      {
+        "id": "476511575495409705",
+        "name": "Tanki Online",
+        "icon": "fc37ec651be3c639868dd9c3cce6fe72",
+        "banner": "13b976cfcc45ff0ea9d790742fece6cb",
+        "owner": false,
+        "permissions": "1095944694206017",
+        "features": [
+          "VIP_REGIONS",
+          "PRIVATE_THREADS",
+          "SEVEN_DAY_THREAD_ARCHIVE",
+          "THREADS_ENABLED",
+          "VERIFIED",
+          "PARTNERED",
+          "ANIMATED_BANNER",
+          "THREE_DAY_THREAD_ARCHIVE",
+          "SOUNDBOARD",
+          "PREVIEW_ENABLED",
+          "ROLE_ICONS",
+          "INVITE_SPLASH",
+          "BANNER",
+          "GUILD_WEB_PAGE_VANITY_URL",
+          "WELCOME_SCREEN_ENABLED",
+          "MEMBER_VERIFICATION_GATE_ENABLED",
+          "MEMBER_PROFILES",
+          "AUTOMOD_TRIGGER_USER_PROFILE",
+          "AUTO_MODERATION",
+          "CHANNEL_ICON_EMOJIS_GENERATED",
+          "VANITY_URL",
+          "DISCOVERABLE",
+          "ENABLED_DISCOVERABLE_BEFORE",
+          "NEW_THREAD_PERMISSIONS",
+          "COMMUNITY_EXP_LARGE_UNGATED",
+          "COMMUNITY",
+          "ANIMATED_ICON",
+          "NEWS"
+        ]
+      },
+      {
+        "id": "612164354674130974",
+        "name": "LAHS Competitive Programming",
+        "icon": "2317229d0464411d9027c6e62049d7b1",
+        "banner": null,
+        "owner": false,
+        "permissions": "2222085186641473",
+        "features": [
+          "RAPIDASH_TEST",
+          "PREVIEW_ENABLED",
+          "HAS_DIRECTORY_ENTRY",
+          "LINKED_TO_HUB",
+          "CHANNEL_ICON_EMOJIS_GENERATED",
+          "SOUNDBOARD"
+        ]
+      },
+      {
+        "id": "619328941999783936",
+        "name": "Naval Warfare Remastered",
+        "icon": "5aab6e0064b309163e2675ce64ca3cc7",
+        "banner": "a11b4b14f54adc101c213715ad89f9eb",
+        "owner": false,
+        "permissions": "1096185212685889",
+        "features": [
+          "GUILD_SERVER_GUIDE",
+          "THREADS_ENABLED",
+          "CREATOR_MONETIZABLE_PROVISIONAL",
+          "GUILD_ONBOARDING_HAS_PROMPTS",
+          "GUILD_ONBOARDING_EVER_ENABLED",
+          "SOUNDBOARD",
+          "ROLE_SUBSCRIPTIONS_ENABLED",
+          "PREVIEW_ENABLED",
+          "GUILD_WEB_PAGE_VANITY_URL",
+          "WELCOME_SCREEN_ENABLED",
+          "MEMBER_VERIFICATION_GATE_ENABLED",
+          "TEXT_IN_VOICE_ENABLED",
+          "AUTO_MODERATION",
+          "CHANNEL_ICON_EMOJIS_GENERATED",
+          "DISCOVERABLE",
+          "ENABLED_DISCOVERABLE_BEFORE",
+          "GUILD_ONBOARDING",
+          "NEW_THREAD_PERMISSIONS",
+          "COMMUNITY",
+          "CREATOR_ACCEPTED_NEW_TERMS",
+          "NEWS"
+        ]
+      },
+      {
+        "id": "713194177403420752",
+        "name": "Monkeytype",
+        "icon": "a_84410fec940533606c07535f22253bb4",
+        "banner": "ab17e94594a776e3688635353917e2f6",
+        "owner": false,
+        "permissions": "1091684154068545",
+        "features": [
+          "VIP_REGIONS",
+          "PRIVATE_THREADS",
+          "SEVEN_DAY_THREAD_ARCHIVE",
+          "THREADS_ENABLED",
+          "VERIFIED",
+          "PARTNERED",
+          "ANIMATED_BANNER",
+          "THREE_DAY_THREAD_ARCHIVE",
+          "SOUNDBOARD",
+          "GUILD_HOME_TEST",
+          "PREVIEW_ENABLED",
+          "ROLE_ICONS",
+          "INVITE_SPLASH",
+          "BANNER",
+          "WELCOME_SCREEN_ENABLED",
+          "MEMBER_VERIFICATION_GATE_ENABLED",
+          "TEXT_IN_VOICE_ENABLED",
+          "MEMBER_PROFILES",
+          "AUTO_MODERATION",
+          "CHANNEL_ICON_EMOJIS_GENERATED",
+          "VANITY_URL",
+          "DISCOVERABLE",
+          "ENABLED_DISCOVERABLE_BEFORE",
+          "NEW_THREAD_PERMISSIONS",
+          "COMMUNITY",
+          "ANIMATED_ICON",
+          "NEWS"
+        ]
+      },
+      {
+        "id": "763596581630509056",
+        "name": "Foothill College",
+        "icon": "8b166f200498972f036aada576c0d671",
+        "banner": null,
+        "owner": false,
+        "permissions": "2222085186637377",
+        "features": [
+          "GUILD_SERVER_GUIDE",
+          "COMMUNITY",
+          "GUILD_ONBOARDING",
+          "NEW_THREAD_PERMISSIONS",
+          "GUILD_ONBOARDING_HAS_PROMPTS",
+          "WELCOME_SCREEN_ENABLED",
+          "TEXT_IN_VOICE_ENABLED",
+          "THREADS_ENABLED",
+          "CHANNEL_ICON_EMOJIS_GENERATED",
+          "SOUNDBOARD",
+          "NEWS",
+          "GUILD_ONBOARDING_EVER_ENABLED"
+        ]
+      },
+      {
+        "id": "809175051625693214",
+        "name": "Botball",
+        "icon": "8be1b16cdea170ef2cac7ddc61e786eb",
+        "banner": null,
+        "owner": false,
+        "permissions": "2222016467160641",
+        "features": [
+          "CHANNEL_ICON_EMOJIS_GENERATED",
+          "SOUNDBOARD"
+        ]
+      },
+      {
+        "id": "825072180270071859",
+        "name": "nicknames : ) friends",
+        "icon": "8ed3318c0b9449374f765033ce2d3dd4",
+        "banner": null,
+        "owner": false,
+        "permissions": "2248474472996673",
+        "features": []
+      },
+      {
+        "id": "841399338919788575",
+        "name": "Seventh Fleet",
+        "icon": "ce9fb32428ecff6d3defd61f0b850f24",
+        "banner": null,
+        "owner": false,
+        "permissions": "2081347698413121",
+        "features": [
+          "COMMUNITY",
+          "SOUNDBOARD",
+          "NEWS"
+        ]
+      },
+      {
+        "id": "842149355817533470",
+        "name": "Legion of Jutland",
+        "icon": "668344a1ddc2d18e6916e9fde386ea54",
+        "banner": "c9e4d9370c2f9977ee134140ce3ceaf0",
+        "owner": false,
+        "permissions": "2222085119528513",
+        "features": [
+          "GUILD_SERVER_GUIDE",
+          "COMMUNITY",
+          "GUILD_ONBOARDING",
+          "NEW_THREAD_PERMISSIONS",
+          "GUILD_ONBOARDING_HAS_PROMPTS",
+          "WELCOME_SCREEN_ENABLED",
+          "TEXT_IN_VOICE_ENABLED",
+          "THREADS_ENABLED",
+          "AUTO_MODERATION",
+          "CHANNEL_ICON_EMOJIS_GENERATED",
+          "SOUNDBOARD",
+          "NEWS",
+          "GUILD_ONBOARDING_EVER_ENABLED"
+        ]
+      },
+      {
+        "id": "864191578444136529",
+        "name": "Cosmic Values",
+        "icon": "a_a0e0ff589bf2cc6e983d2178955efecb",
+        "banner": "a_3ccd7d2884f258d564d01c3c5680a32f",
+        "owner": false,
+        "permissions": "2221982040264257",
+        "features": [
+          "GUILD_SERVER_GUIDE",
+          "PRIVATE_THREADS",
+          "SEVEN_DAY_THREAD_ARCHIVE",
+          "ANIMATED_BANNER",
+          "THREE_DAY_THREAD_ARCHIVE",
+          "CREATOR_MONETIZABLE_PROVISIONAL",
+          "GUILD_ONBOARDING_HAS_PROMPTS",
+          "GUILD_ONBOARDING_EVER_ENABLED",
+          "SOUNDBOARD",
+          "GUILD_HOME_TEST",
+          "DEVELOPER_SUPPORT_SERVER",
+          "ROLE_SUBSCRIPTIONS_ENABLED",
+          "PREVIEW_ENABLED",
+          "ROLE_ICONS",
+          "INVITE_SPLASH",
+          "BANNER",
+          "GUILD_WEB_PAGE_VANITY_URL",
+          "WELCOME_SCREEN_ENABLED",
+          "MEMBER_VERIFICATION_GATE_ENABLED",
+          "TEXT_IN_VOICE_ENABLED",
+          "MEMBER_PROFILES",
+          "AUTOMOD_TRIGGER_USER_PROFILE",
+          "AUTO_MODERATION",
+          "CHANNEL_ICON_EMOJIS_GENERATED",
+          "VANITY_URL",
+          "DISCOVERABLE",
+          "ENABLED_DISCOVERABLE_BEFORE",
+          "GUILD_ONBOARDING",
+          "NEW_THREAD_PERMISSIONS",
+          "COMMUNITY",
+          "CREATOR_ACCEPTED_NEW_TERMS",
+          "ANIMATED_ICON",
+          "NEWS"
+        ]
+      },
+      {
+        "id": "892924667512361001",
+        "name": "Los Altos High School",
+        "icon": "a74a73aa22480b3eecaf57849c511235",
+        "banner": null,
+        "owner": false,
+        "permissions": "2222085186768449",
+        "features": [
+          "CHANNEL_ICON_EMOJIS_GENERATED",
+          "HUB"
+        ]
+      },
+      {
+        "id": "894027602161967114",
+        "name": "Redwood Smurfs",
+        "icon": "a_59229afc9cebe857cd835812d639db6e",
+        "banner": "a_de83ef09fad436ae2b20310903fc8e39",
+        "owner": false,
+        "permissions": "120936883285955",
+        "features": [
+          "COMMUNITY",
+          "PREVIEW_ENABLED",
+          "MEMBER_VERIFICATION_GATE_ENABLED",
+          "AUTO_MODERATION",
+          "CHANNEL_ICON_EMOJIS_GENERATED",
+          "NEWS"
+        ]
+      },
+      {
+        "id": "901966554537812059",
+        "name": "Expellez's Village",
+        "icon": "19745f5f7a99fb7e6d0f90e60fcfabaa",
+        "banner": "ead438d1299306090f9ace8a70117003",
+        "owner": false,
+        "permissions": "2221979892780544",
+        "features": [
+          "PRIVATE_THREADS",
+          "PREVIEW_ENABLED",
+          "ROLE_ICONS",
+          "INVITE_SPLASH",
+          "BANNER",
+          "GUILD_WEB_PAGE_VANITY_URL",
+          "WELCOME_SCREEN_ENABLED",
+          "MEMBER_VERIFICATION_GATE_ENABLED",
+          "SEVEN_DAY_THREAD_ARCHIVE",
+          "MEMBER_PROFILES",
+          "AUTO_MODERATION",
+          "CHANNEL_ICON_EMOJIS_GENERATED",
+          "VANITY_URL",
+          "ANIMATED_BANNER",
+          "THREE_DAY_THREAD_ARCHIVE",
+          "DISCOVERABLE",
+          "ENABLED_DISCOVERABLE_BEFORE",
+          "GUILD_ONBOARDING",
+          "COMMUNITY_EXP_LARGE_UNGATED",
+          "GUILD_ONBOARDING_HAS_PROMPTS",
+          "GUILD_ONBOARDING_EVER_ENABLED",
+          "COMMUNITY",
+          "SOUNDBOARD",
+          "ANIMATED_ICON",
+          "NEWS"
+        ]
+      },
+      {
+        "id": "916756833023176765",
+        "name": "Bot Developement",
+        "icon": "d9e314ee5629e82882b30f6aa666c4bf",
+        "banner": null,
+        "owner": true,
+        "permissions": "2251799813685247",
+        "features": []
+      },
+      {
+        "id": "930608039239761940",
+        "name": "Rubidium",
+        "icon": "14ba40470c9211523b9531cd5d9f613e",
+        "banner": "371b38292f9fbd366986519a8cbd2fa4",
+        "owner": false,
+        "permissions": "1271039773445633",
+        "features": [
+          "GUILD_SERVER_GUIDE",
+          "PREVIEW_ENABLED",
+          "INVITE_SPLASH",
+          "WELCOME_SCREEN_ENABLED",
+          "MEMBER_VERIFICATION_GATE_ENABLED",
+          "AUTO_MODERATION",
+          "CHANNEL_ICON_EMOJIS_GENERATED",
+          "CREATOR_ACCEPTED_NEW_TERMS",
+          "THREE_DAY_THREAD_ARCHIVE",
+          "DISCOVERABLE",
+          "ENABLED_DISCOVERABLE_BEFORE",
+          "GUILD_ONBOARDING",
+          "GUILD_ONBOARDING_HAS_PROMPTS",
+          "GUILD_ONBOARDING_EVER_ENABLED",
+          "COMMUNITY",
+          "SOUNDBOARD",
+          "ANIMATED_ICON",
+          "NEWS"
+        ]
+      },
+      {
+        "id": "939587358825791508",
+        "name": "LosAltosBotball2024",
+        "icon": "1a05d9ab778b3d95cfb6d8ceb00c6e38",
+        "banner": null,
+        "owner": false,
+        "permissions": "2248474539576897",
+        "features": [
+          "TEXT_IN_VOICE_ENABLED"
+        ]
+      },
+      {
+        "id": "957859662810734642",
+        "name": "Dank Memer Grinder",
+        "icon": "5f7ee808999fbf9f74282627fae8e645",
+        "banner": null,
+        "owner": true,
+        "permissions": "2251799813685247",
+        "features": []
+      },
+      {
+        "id": "979584532674142268",
+        "name": "slay queen girlboss",
+        "icon": "d7c892ab67fc15bb947bea20fa26dd0e",
+        "banner": null,
+        "owner": false,
+        "permissions": "2248473465835073",
+        "features": []
+      },
+      {
+        "id": "984697077349109790",
+        "name": "Unmodded-ish Botball Server",
+        "icon": "4969b55edb6323fc4bc9d46bd1f8fcaa",
+        "banner": null,
+        "owner": false,
+        "permissions": "2248473465835073",
+        "features": [
+          "CHANNEL_ICON_EMOJIS_GENERATED"
+        ]
+      },
+      {
+        "id": "1017890221238521936",
+        "name": "LAHS AI For Social Good Club",
+        "icon": "0104090c36f2aa98a9e76a667fe2cdbd",
+        "banner": null,
+        "owner": false,
+        "permissions": "2222085186637377",
+        "features": [
+          "COMMUNITY",
+          "PREVIEW_ENABLED",
+          "HAS_DIRECTORY_ENTRY",
+          "LINKED_TO_HUB",
+          "WELCOME_SCREEN_ENABLED",
+          "AUTO_MODERATION",
+          "CHANNEL_ICON_EMOJIS_GENERATED",
+          "NEWS"
+        ]
+      },
+      {
+        "id": "1021291230937743360",
+        "name": "Climbing Club",
+        "icon": "849857544bd8be339aa0feabd6f8a02d",
+        "banner": null,
+        "owner": false,
+        "permissions": "2248473465835073",
+        "features": [
+          "PREVIEW_ENABLED",
+          "HAS_DIRECTORY_ENTRY",
+          "LINKED_TO_HUB",
+          "CHANNEL_ICON_EMOJIS_GENERATED"
+        ]
+      },
+      {
+        "id": "1050926048772116480",
+        "name": "white elephant 2022",
+        "icon": null,
+        "banner": null,
+        "owner": false,
+        "permissions": "2248473465835073",
+        "features": [
+          "CHANNEL_ICON_EMOJIS_GENERATED"
+        ]
+      },
+      {
+        "id": "1078177784138039337",
+        "name": "LAHS Typeracer Club",
+        "icon": "8dcb8fc5912976c86920f8e3c394c6ec",
+        "banner": null,
+        "owner": false,
+        "permissions": "2248473465704001",
+        "features": [
+          "PREVIEW_ENABLED",
+          "HAS_DIRECTORY_ENTRY",
+          "LINKED_TO_HUB",
+          "CHANNEL_ICON_EMOJIS_GENERATED",
+          "SOUNDBOARD"
+        ]
+      },
+      {
+        "id": "1080697793846448261",
+        "name": "WilHacks 4.0",
+        "icon": "6dd85c73e7360515e63d9f20726f4fb5",
+        "banner": null,
+        "owner": false,
+        "permissions": "2221569790299713",
+        "features": [
+          "CHANNEL_ICON_EMOJIS_GENERATED"
+        ]
+      },
+      {
+        "id": "1099468797410283540",
+        "name": "Bloxstrap",
+        "icon": "e1d087344d72fd6d09e6db31dbc101bb",
+        "banner": null,
+        "owner": false,
+        "permissions": "1020488628422208",
+        "features": [
+          "COMMUNITY",
+          "PRIVATE_THREADS",
+          "THREE_DAY_THREAD_ARCHIVE",
+          "ROLE_ICONS",
+          "INVITE_SPLASH",
+          "BANNER",
+          "SEVEN_DAY_THREAD_ARCHIVE",
+          "MEMBER_PROFILES",
+          "AUTO_MODERATION",
+          "CHANNEL_ICON_EMOJIS_GENERATED",
+          "ANIMATED_ICON",
+          "NEWS"
+        ]
+      },
+      {
+        "id": "1136967532536934400",
+        "name": "\ud835\udc13\ud835\udc1e\ud835\udc1a\ud835\udc26\ud835\udfd0\ud835\udc0b\ud835\udc22\ud835\udc2d",
+        "icon": "5273f43f97031d7a1e076c7cf596b031",
+        "banner": null,
+        "owner": false,
+        "permissions": "2111515481460289",
+        "features": [
+          "ROLE_SUBSCRIPTIONS_ENABLED",
+          "PRIVATE_THREADS",
+          "CREATOR_MONETIZABLE",
+          "PREVIEW_ENABLED",
+          "ROLE_ICONS",
+          "INVITE_SPLASH",
+          "BANNER",
+          "MEMBER_VERIFICATION_GATE_ENABLED",
+          "SEVEN_DAY_THREAD_ARCHIVE",
+          "ROLE_SUBSCRIPTIONS_AVAILABLE_FOR_PURCHASE",
+          "MEMBER_PROFILES",
+          "AUTO_MODERATION",
+          "CHANNEL_ICON_EMOJIS_GENERATED",
+          "CREATOR_ACCEPTED_NEW_TERMS",
+          "VANITY_URL",
+          "ANIMATED_BANNER",
+          "THREE_DAY_THREAD_ARCHIVE",
+          "COMMUNITY",
+          "SOUNDBOARD",
+          "ANIMATED_ICON",
+          "NEWS"
+        ]
+      },
+      {
+        "id": "1174493194810036274",
+        "name": "bhocolate bhip",
+        "icon": "ff6292c5b03cc72e6993d5548a829f46",
+        "banner": null,
+        "owner": false,
+        "permissions": "2248473465835073",
+        "features": [
+          "CHANNEL_ICON_EMOJIS_GENERATED"
+        ]
+      },
+      {
+        "id": "1180168770547880067",
+        "name": "123Demands | PS99 Values & Trading",
+        "icon": "7ce290ac228c2bb305bbe27392c6ad34",
+        "banner": "385ea5c670663abdf844a4bf57181093",
+        "owner": false,
+        "permissions": "212074784689665",
+        "features": [
+          "GUILD_SERVER_GUIDE",
+          "COMMUNITY",
+          "THREE_DAY_THREAD_ARCHIVE",
+          "PREVIEW_ENABLED",
+          "DISCOVERABLE",
+          "RAID_ALERTS_DISABLED",
+          "INVITE_SPLASH",
+          "ENABLED_DISCOVERABLE_BEFORE",
+          "GUILD_ONBOARDING",
+          "GUILD_ONBOARDING_HAS_PROMPTS",
+          "MEMBER_VERIFICATION_GATE_ENABLED",
+          "AUTO_MODERATION",
+          "GUILD_ONBOARDING_EVER_ENABLED",
+          "CHANNEL_ICON_EMOJIS_GENERATED",
+          "SOUNDBOARD",
+          "ANIMATED_ICON",
+          "NEWS"
+        ]
+      },
+      {
+        "id": "1181259478809722930",
+        "name": "VaS0's Hangout",
+        "icon": "9fe368376caeffe08d6a0490d624acc7",
+        "banner": "ec548bda7c66ca28bf98571c8645768b",
+        "owner": false,
+        "permissions": "1940056159145537",
+        "features": [
+          "COMMUNITY",
+          "THREE_DAY_THREAD_ARCHIVE",
+          "PREVIEW_ENABLED",
+          "DISCOVERABLE",
+          "INVITE_SPLASH",
+          "ENABLED_DISCOVERABLE_BEFORE",
+          "GUILD_WEB_PAGE_VANITY_URL",
+          "MEMBER_VERIFICATION_GATE_ENABLED",
+          "ACTIVITY_FEED_DISABLED_BY_USER",
+          "AUTO_MODERATION",
+          "GUILD_ONBOARDING_EVER_ENABLED",
+          "CHANNEL_ICON_EMOJIS_GENERATED",
+          "SOUNDBOARD",
+          "ANIMATED_ICON",
+          "NEWS"
+        ]
+      },
+      {
+        "id": "1189013864361250950",
+        "name": "PS99 Jack Clan",
+        "icon": "827e8811cd7f33300628f5fa192455e2",
+        "banner": null,
+        "owner": false,
+        "permissions": "2244075419192897",
+        "features": [
+          "CHANNEL_ICON_EMOJIS_GENERATED",
+          "SOUNDBOARD",
+          "GUESTS_ENABLED"
+        ]
+      },
+      {
+        "id": "1198548957714984980",
+        "name": "Ps99 Tips",
+        "icon": "395f30bbc173dee57f4c4349da351343",
+        "banner": null,
+        "owner": false,
+        "permissions": "1870172746223169",
+        "features": [
+          "COMMUNITY",
+          "PREVIEW_ENABLED",
+          "GUILD_ONBOARDING",
+          "MEMBER_VERIFICATION_GATE_ENABLED",
+          "GUILD_ONBOARDING_EVER_ENABLED",
+          "CHANNEL_ICON_EMOJIS_GENERATED",
+          "SOUNDBOARD",
+          "NEWS"
+        ]
+      },
+      {
+        "id": "1203679730289745972",
+        "name": "\u26c4Christmas Maritime Dominion\ud83c\udf84",
+        "icon": "c86aa6fc340a44f695dfe5f45568ec6a",
+        "banner": "48022472d50133209af6e8e982dea82f",
+        "owner": false,
+        "permissions": "2221982040313345",
+        "features": [
+          "GUILD_SERVER_GUIDE",
+          "PRIVATE_THREADS",
+          "PREVIEW_ENABLED",
+          "ROLE_ICONS",
+          "INVITE_SPLASH",
+          "BANNER",
+          "MEMBER_VERIFICATION_GATE_ENABLED",
+          "SEVEN_DAY_THREAD_ARCHIVE",
+          "MEMBER_PROFILES",
+          "AUTO_MODERATION",
+          "CHANNEL_ICON_EMOJIS_GENERATED",
+          "VANITY_URL",
+          "ANIMATED_BANNER",
+          "THREE_DAY_THREAD_ARCHIVE",
+          "GUILD_ONBOARDING",
+          "GUILD_ONBOARDING_HAS_PROMPTS",
+          "GUILD_ONBOARDING_EVER_ENABLED",
+          "COMMUNITY",
+          "SOUNDBOARD",
+          "ANIMATED_ICON",
+          "NEWS"
+        ]
+      },
+      {
+        "id": "1204572766418763838",
+        "name": "Zenith Studios",
+        "icon": "628cd9e0983368f680d69dba73a368e2",
+        "banner": null,
+        "owner": false,
+        "permissions": "2251799813685247",
+        "features": [
+          "SOUNDBOARD"
+        ]
+      },
+      {
+        "id": "1209346437259722842",
+        "name": "Milpitas Hacks",
+        "icon": "483d66604827f69b6476539814704352",
+        "banner": null,
+        "owner": false,
+        "permissions": "2222085186637377",
+        "features": [
+          "RAPIDASH_TEST",
+          "PREVIEW_ENABLED",
+          "HAS_DIRECTORY_ENTRY",
+          "LINKED_TO_HUB",
+          "COMMUNITY",
+          "SOUNDBOARD",
+          "NEWS"
+        ]
+      },
+      {
+        "id": "1215141099493134336",
+        "name": "\u2693 LancerHacks VII Hackathon \u2693",
+        "icon": "a4095d14f87ab138fa8a7448c81a8de8",
+        "banner": null,
+        "owner": false,
+        "permissions": "1720707884502593",
+        "features": [
+          "CHANNEL_ICON_EMOJIS_GENERATED",
+          "RAPIDASH_TEST"
+        ]
+      },
+      {
+        "id": "1219601096004075620",
+        "name": "PS99 HQ",
+        "icon": "82992f6ede027b4895091f3d4bb8e2a9",
+        "banner": null,
+        "owner": false,
+        "permissions": "2222085186636353",
+        "features": [
+          "GUILD_SERVER_GUIDE",
+          "RAPIDASH_TEST",
+          "GUILD_ONBOARDING",
+          "GUILD_ONBOARDING_HAS_PROMPTS",
+          "AUTO_MODERATION",
+          "GUILD_ONBOARDING_EVER_ENABLED",
+          "COMMUNITY",
+          "SOUNDBOARD",
+          "NEWS"
+        ]
+      },
+      {
+        "id": "1231800488182288455",
+        "name": "NSFY Clan",
+        "icon": "a_7e3299c1ff6e87c1fea12058dafe2757",
+        "banner": null,
+        "owner": false,
+        "permissions": "1557602172767809",
+        "features": [
+          "RAPIDASH_TEST",
+          "THREE_DAY_THREAD_ARCHIVE",
+          "AUTO_MODERATION",
+          "INVITE_SPLASH",
+          "SOUNDBOARD",
+          "ANIMATED_ICON"
+        ]
+      },
+      {
+        "id": "1241809147209711749",
+        "name": "Wu Tang Imperial Guard",
+        "icon": "4bfe59789cc35a07f3e77cb5af72a414",
+        "banner": null,
+        "owner": false,
+        "permissions": "2248473465704001",
+        "features": []
+      },
+      {
+        "id": "1242004251962511405",
+        "name": "PS99 RAP",
+        "icon": "a_7fd3226c6af0a19fb83e640f02308f00",
+        "banner": null,
+        "owner": true,
+        "permissions": "2251799813685247",
+        "features": [
+          "PREVIEW_ENABLED",
+          "DISCOVERABLE",
+          "ENABLED_DISCOVERABLE_BEFORE",
+          "GUILD_ONBOARDING",
+          "GUILD_ONBOARDING_HAS_PROMPTS",
+          "GUILD_WEB_PAGE_VANITY_URL",
+          "AUTO_MODERATION",
+          "GUILD_ONBOARDING_EVER_ENABLED",
+          "COMMUNITY",
+          "SOUNDBOARD",
+          "NEWS"
+        ]
+      },
+      {
+        "id": "1245112587872632946",
+        "name": "[Verification/Recruitment] Blitzmarine",
+        "icon": "951ae6a5dc24fa32f6084dce5d72c3bd",
+        "banner": "1e93addb9fbddedcb311d90a5a5f7ad9",
+        "owner": false,
+        "permissions": "141837000114177",
+        "features": [
+          "ENABLED_MODERATION_EXPERIENCE_FOR_NON_COMMUNITY",
+          "RAPIDASH_TEST",
+          "THREE_DAY_THREAD_ARCHIVE",
+          "INVITE_SPLASH",
+          "AUTO_MODERATION",
+          "GUILD_ONBOARDING_EVER_ENABLED",
+          "COMMUNITY",
+          "SOUNDBOARD",
+          "ANIMATED_ICON",
+          "NEWS"
+        ]
+      },
+      {
+        "id": "1245960334490075136",
+        "name": "Wanshot Fanclub",
+        "icon": "3ed333d69db492fa3160297f78501014",
+        "banner": null,
+        "owner": false,
+        "permissions": "2248370386488897",
+        "features": [
+          "SOUNDBOARD"
+        ]
+      },
+      {
+        "id": "1247415504373547048",
+        "name": "mnadarin gang",
+        "icon": "8b1d185d631701a4ba090474cac0fa5d",
+        "banner": null,
+        "owner": false,
+        "permissions": "2248473465835073",
+        "features": [
+          "LINKED_TO_HUB",
+          "HAS_DIRECTORY_ENTRY",
+          "PREVIEW_ENABLED"
+        ]
+      },
+      {
+        "id": "1257379970708148306",
+        "name": "Large Games",
+        "icon": "09a1604ce20c3dbabb27e2fe70e1cc45",
+        "banner": "eecf818f47f64436a11e14cbd0a70221",
+        "owner": false,
+        "permissions": "39999067393537",
+        "features": [
+          "GUILD_SERVER_GUIDE",
+          "PRIVATE_THREADS",
+          "PREVIEW_ENABLED",
+          "ROLE_ICONS",
+          "INVITE_SPLASH",
+          "BANNER",
+          "GUILD_WEB_PAGE_VANITY_URL",
+          "SEVEN_DAY_THREAD_ARCHIVE",
+          "MEMBER_PROFILES",
+          "AUTO_MODERATION",
+          "VANITY_URL",
+          "ANIMATED_BANNER",
+          "THREE_DAY_THREAD_ARCHIVE",
+          "DISCOVERABLE",
+          "ENABLED_DISCOVERABLE_BEFORE",
+          "GUILD_ONBOARDING",
+          "GUILD_ONBOARDING_HAS_PROMPTS",
+          "GUILD_ONBOARDING_EVER_ENABLED",
+          "COMMUNITY",
+          "SOUNDBOARD",
+          "ANIMATED_ICON",
+          "NEWS"
+        ]
+      },
+      {
+        "id": "1263294168835428362",
+        "name": "Bay Hacks",
+        "icon": "099e9cb19c892e88642ad927d863914d",
+        "banner": null,
+        "owner": false,
+        "permissions": "2222085186637313",
+        "features": [
+          "COMMUNITY",
+          "RAPIDASH_TEST",
+          "NEWS"
+        ]
+      },
+      {
+        "id": "1277782009942511742",
+        "name": "SAT Testing",
+        "icon": null,
+        "banner": null,
+        "owner": true,
+        "permissions": "2251799813685247",
+        "features": [
+          "ENABLED_MODERATION_EXPERIENCE_FOR_NON_COMMUNITY"
+        ]
+      },
+      {
+        "id": "1280159927201038467",
+        "name": "M_LK Clan",
+        "icon": "a1482c2dffd82b5ae68d7222d880f4cd",
+        "banner": null,
+        "owner": false,
+        "permissions": "140741887249921",
+        "features": []
+      },
+      {
+        "id": "1286771539806519337",
+        "name": "Naval Warfare Advanced",
+        "icon": "fcb22839e6c6d13a3e1e5a4e4290d77b",
+        "banner": null,
+        "owner": false,
+        "permissions": "140737488356353",
+        "features": [
+          "THREE_DAY_THREAD_ARCHIVE",
+          "INVITE_SPLASH",
+          "COMMUNITY",
+          "SOUNDBOARD",
+          "ANIMATED_ICON",
+          "NEWS"
+        ]
+      },
+      {
+        "id": "1288729806778662932",
+        "name": "P^3 (Positive Peer Pressure)",
+        "icon": "b75d9a5a7bc00de0c13a9f8890da3c13",
+        "banner": null,
+        "owner": false,
+        "permissions": "2248473465835073",
+        "features": []
+      },
+      {
+        "id": "1288893377852604416",
+        "name": "AI and Machine Learning Club",
+        "icon": "7f1debac11dc0240d456d1e15295678e",
+        "banner": null,
+        "owner": false,
+        "permissions": "2248473465835073",
+        "features": []
+      },
+      {
+        "id": "1289723326624825415",
+        "name": "Blitzmarine",
+        "icon": "c2d1099f2b848815382cceab9c7356d6",
+        "banner": "d1e84fd869df9e470f094f9c517081f0",
+        "owner": false,
+        "permissions": "140737488356352",
+        "features": [
+          "THREE_DAY_THREAD_ARCHIVE",
+          "PREVIEW_ENABLED",
+          "INVITE_SPLASH",
+          "GUILD_ONBOARDING",
+          "GUILD_ONBOARDING_HAS_PROMPTS",
+          "MEMBER_VERIFICATION_GATE_ENABLED",
+          "AUTO_MODERATION",
+          "GUILD_ONBOARDING_EVER_ENABLED",
+          "COMMUNITY",
+          "ANIMATED_ICON",
+          "NEWS"
+        ]
+      },
+      {
+        "id": "1292650496636620841",
+        "name": "Sigmas of the Seas",
+        "icon": "9039161dc9a6eb8197a4f9774299f89b",
+        "banner": null,
+        "owner": true,
+        "permissions": "2251799813685247",
+        "features": []
+      },
+      {
+        "id": "1303265973918236733",
+        "name": "Azurean Maritime Studio & Management",
+        "icon": "fb334ce96121a2cc68eccdefab276c57",
+        "banner": null,
+        "owner": false,
+        "permissions": "2248473465835073",
+        "features": []
+      },
+      {
+        "id": "1320035389628481616",
+        "name": "BM Officer Server",
+        "icon": null,
+        "banner": null,
+        "owner": false,
+        "permissions": "2248473465835073",
+        "features": []
+      },
+      {
+        "id": "1320184794687995927",
+        "name": "bell.plus developers",
+        "icon": "eb0aaf9a2694975209432965f44fc6e8",
+        "banner": null,
+        "owner": false,
+        "permissions": "2248473465835073",
+        "features": []
+      }
+    ]
+  }
+}
