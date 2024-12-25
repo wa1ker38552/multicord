@@ -25,7 +25,7 @@ function renderMessage(message, guild) {
     <div class="message-header horizontal-container">
         <img src="https://cdn.discordapp.com/avatars/${message.author.id}/${message.author.avatar}.png?size=${SETTINGS.image_resolution}">
         <b>${message.author.username}</b>
-        ${formatDateSimplified(message.timestamp)}
+        <span style='color: var(--secondary)'>${formatDateSimplified(message.timestamp)}</span>
         ${(guild) ? `
         <div class="server-tag centered-children">
             ${guild.name}

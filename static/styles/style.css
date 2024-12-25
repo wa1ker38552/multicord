@@ -4,6 +4,7 @@ body {
     color: var(--text);
     display: grid;
     grid-template-columns: auto 1fr;
+    overflow-x: hidden;
 }
 
 .side-navigation {
@@ -43,12 +44,12 @@ body {
 }
 
 .content {
-    padding: 1rem;
     box-sizing: border-box;
+    height: 100% !important;
 }
 
 .window {
-    padding: 0.5rem;
+    padding: 0.5rem !important;
     box-sizing: border-box;
     border-radius: 5px;
     background: var(--accent);
@@ -115,4 +116,9 @@ body {
 
 ::-webkit-scrollbar-thumb:hover {
     background: var(--accent-dark);
+}
+
+.grid-stack {
+    margin: 1rem;
+    height: calc(100% - 2rem) !important;
 }

@@ -27,3 +27,4 @@ async def on_message(message):
 
 Thread(target=client.run, daemon=True).start()
 socket.run(app, host='0.0.0.0', port=8080, debug=True)
+# app.run(host='0.0.0.0', port=8080, debug=True)

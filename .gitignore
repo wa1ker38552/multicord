@@ -1,3 +1,4 @@
 token.txt
 __pycache__
 venv
+static/node_modules
