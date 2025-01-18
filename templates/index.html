@@ -17,7 +17,17 @@
         <script src="/static/scripts/index_load.js"></script>
     </head>
     <body>
+        <div class="modal-background centered-children" id="guildChannelModal">
+            <div class="modal">
+                <h3 class="horizontal-container">Placeholder Guild Title</h3>
+            </div>
+        </div>
         <div class="side-navigation guild-container"></div>
-        <div class="content grid-stack"></div>
+        <div class="content grid-stack">
+            <div class="window grid-stack-item" gs-w='3' gs-h="2">
+                <div class="subtitle">Global Stream</div>
+                <div class="messages-container" id="globalMessagesContainer"></div>
+            </div>
+        </div>
     </body>
 </html>

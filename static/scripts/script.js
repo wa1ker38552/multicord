@@ -16,7 +16,7 @@ function renderGuild(guild) {
         ${(!guild.icon) ? `<div class="guild-name">${formatGuildName(guild.name)}</div>` : ""}
     `)
     e.title = guild.name
-    e.href = `/guilds/${guild.id}`
+    e.onclick = function() {showGuildChannels(guild.id)}
     return e
 }
 
@@ -34,4 +34,11 @@ function renderMessage(message, guild) {
     </div>
     <div class="message-content">${(message.content.length > 0) ? message.content : "<i style='color: red;'>Unsupported message type!</i>"}</div>
     `)
+}
+
+function showGuildChannels(id) {
+    request(`/api/guilds/${id}/channels`)
+        .then(data => {
+            console.log(data)
+        })
 }

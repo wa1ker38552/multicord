@@ -10,4 +10,11 @@ class APIManager:
         }
 
     def get_guilds(self):
-        return self.session.get('https://discord.com/api/v9/users/@me/guilds').json()
+        raw_data = self.session.get('https://discord.com/api/v9/users/@me/guilds').json()
+        parsed_data = {}
+        for item in raw_data:
+            parsed_data[item['id']] = item
+        return parsed_data
+
+    def get_guild_channels(self, guild_id):
+        return self.session.get(f'https://discord.com/api/v9/guilds/{guild_id}/channels').json()

@@ -122,3 +122,8 @@ body {
     margin: 1rem;
     height: calc(100% - 2rem) !important;
 }
+
+.modal {
+    background: var(--background);
+    border-radius: 5px;
+}
